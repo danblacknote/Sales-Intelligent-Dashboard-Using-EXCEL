@@ -7,26 +7,22 @@
 
 An interactive, highly dynamic Excel dashboard built on the AdventureWorks dataset. This project demonstrates advanced Excel data modeling, star-schema design, parameter-driven KPIs, and dynamic visualizations to track revenue, profit margins, time series trends, and customer behaviors.
 
-<br><br>
+<br>
 
  🖼️ Dashboard Preview
 
-<br><br>
-
+<br>
 > *💡 Tip: Click the image below to view a full-resolution version.*
 
 
-<br><br>
+<br>
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
 
-
-<br><br>
-
-
+<br>
 
  🚀 Interactive Navigation
 
@@ -44,9 +40,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 </details>
 
 
-
-<br><br>
-
+<br>
 
 <details>
 <summary><b>⚙️ Click here to view Core Features & Business Requirements</b></summary>
@@ -59,25 +53,19 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 </details>
 
 
-
-<br><br>
+<br>
 
  🖼️ Dashboard Preview
 
 
-<br><br>
+<br>
 > *💡 Tip: Click the image below to view a full-resolution version.*
-
-
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/84b201277365c28baff8d4e1719829f32affc035/images/Time%20Series%20sales%20Intellegent%20Dashboard%20image.PNG" alt="Sales Intelligent Time Series Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
-
-<br><br>
-
-
+<br>
 
  🛠️ How to Use This Workbook
 
@@ -89,7 +77,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
    * Hover over KPI cards (powered by `GETPIVOTDATA`) to see the underlying cell formulas.
 
 
-<br><br>
+<br>
 
  📂 What's Inside the Folders?
 
@@ -99,7 +87,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 *   `/images`: Screenshots used for this README and portfolio presentation.
 
 
-<br><br>
+<br>
  🧠 Architecture & Formulas
 This dashboard relies on a Star Schema Data Model:
 *   Fact Table: Sales (Transactions, COGS, Profit).
@@ -112,7 +100,7 @@ Core Formula Example (Dynamic KPI Engine):
 *Reads the selected metric from the control panel and dynamically shifts the KPI cards.*
 
 
-<br><br>
+<br>
 
  👨💻 Author
 
