@@ -7,14 +7,16 @@
 
 An interactive, highly dynamic Excel dashboard built on the AdventureWorks dataset. This project demonstrates advanced Excel data modeling, star-schema design, parameter-driven KPIs, and dynamic visualizations to track revenue, profit margins, time series trends, and customer behaviors.
 
-
+<br><br>
 
  🖼️ Dashboard Preview
 
+<br><br>
 
 > *💡 Tip: Click the image below to view a full-resolution version.*
 
 
+<br><br>
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
@@ -22,6 +24,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 
 
 
+<br><br>
 
 
 
@@ -42,6 +45,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 
 
 
+<br><br>
 
 
 <details>
@@ -56,10 +60,12 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 
 
 
+<br><br>
 
  🖼️ Dashboard Preview
 
 
+<br><br>
 > *💡 Tip: Click the image below to view a full-resolution version.*
 
 
@@ -69,6 +75,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 </a>
 
 
+<br><br>
 
 
 
@@ -82,6 +89,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
    * Hover over KPI cards (powered by `GETPIVOTDATA`) to see the underlying cell formulas.
 
 
+<br><br>
 
  📂 What's Inside the Folders?
 
@@ -91,6 +99,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 *   `/images`: Screenshots used for this README and portfolio presentation.
 
 
+<br><br>
  🧠 Architecture & Formulas
 This dashboard relies on a Star Schema Data Model:
 *   Fact Table: Sales (Transactions, COGS, Profit).
@@ -103,11 +112,15 @@ Core Formula Example (Dynamic KPI Engine):
 *Reads the selected metric from the control panel and dynamically shifts the KPI cards.*
 
 
+<br><br>
+
  👨💻 Author
 
-[Your Name/Username]
-*   LinkedIn: [Your Profile](#)
-*   GitHub: [@YourHandle](#)
+*   Name: Mr. Deneke Zewdu
+*   LinkedIn: https://www.linkedin.com/in/deneke-zewdenhe-06a208208
+*   GitHub: https://github.com/danblacknote
 
+  
+<br><br>
  📜 License
 This project is licensed under the MIT License - see the LICENSE file for details. Data sourced from Microsoft's AdventureWorks sample database.
