@@ -8,13 +8,18 @@
 An interactive, highly dynamic Excel dashboard built on the AdventureWorks dataset. This project demonstrates advanced Excel data modeling, star-schema design, parameter-driven KPIs, and dynamic visualizations to track revenue, profit margins, time series trends, and customer behaviors.
 
 
+
  🖼️ Dashboard Preview
 
+
 > *💡 Tip: Click the image below to view a full-resolution version.*
+
+
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
+
 
 
 
@@ -35,6 +40,10 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 ```
 </details>
 
+
+
+
+
 <details>
 <summary><b>⚙️ Click here to view Core Features & Business Requirements</b></summary>
 
@@ -46,13 +55,22 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 </details>
 
 
+
+
  🖼️ Dashboard Preview
 
+
 > *💡 Tip: Click the image below to view a full-resolution version.*
+
+
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/84b201277365c28baff8d4e1719829f32affc035/images/Time%20Series%20sales%20Intellegent%20Dashboard%20image.PNG" alt="Sales Intelligent Time Series Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
+
+
+
+
 
  🛠️ How to Use This Workbook
 
