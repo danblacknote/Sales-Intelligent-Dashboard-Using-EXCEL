@@ -16,7 +16,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
-*(If the image doesn't load, please ensure you have placed your dashboard screenshot in the `images` folder and named it `dashboard-preview.png`).*
+
 
 
 
@@ -42,10 +42,17 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 *   Time Series Analysis: Quarter-over-quarter comparisons (`GETPIVOTDATA` pulling from dynamic cube/cache fields).
 *   Product Insights: Top-5 product revenue drivers vs. "Others" using dynamic arrays (`SORT`/`TAKE`) for scalable ranking.
 *   Customer Demographics: Age-group and gender profit contribution breakdown.
-*   Data Validation: Prevents silent lookup failures (`IFERROR` audits) ensuring 100% data integrity.
+*   Data Validation: Prevents silent lookup failures (`IFERROR` audits), ensuring 100% data integrity.
 </details>
 
 
+ 🖼️ Dashboard Preview
+
+> *💡 Tip: Click the image below to view a full-resolution version.*
+
+<a href="./images/dashboard-preview.png" target="_blank">
+  <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/84b201277365c28baff8d4e1719829f32affc035/images/Time%20Series%20sales%20Intellegent%20Dashboard%20image.PNG" alt="Sales Intelligent Time Series Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
+</a>
 
  🛠️ How to Use This Workbook
 
