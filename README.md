@@ -12,17 +12,16 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
  🖼️ Dashboard Preview
 
 <br>
-> *💡 Tip: Click the image below to view a full-resolution version.*
+> 💡 Tip: Click the image below to view a full-resolution version.
 
-
-<br>
+<br><br>
 
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
 
-<br>
+<br><br>
 
  🚀 Interactive Navigation
 
@@ -58,14 +57,14 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
  🖼️ Dashboard Preview
 
 
+<br><br>
+> 💡 Tip: Click the image below to view a full-resolution version.
 <br>
-> *💡 Tip: Click the image below to view a full-resolution version.*
-
 <a href="./images/dashboard-preview.png" target="_blank">
   <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/84b201277365c28baff8d4e1719829f32affc035/images/Time%20Series%20sales%20Intellegent%20Dashboard%20image.PNG" alt="Sales Intelligent Time Series Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
-<br>
+<br><br>
 
  🛠️ How to Use This Workbook
 
