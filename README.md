@@ -13,7 +13,7 @@ An interactive, highly dynamic Excel dashboard built on the AdventureWorks datas
 > *💡 Tip: Click the image below to view a full-resolution version.*
 
 <a href="./images/dashboard-preview.png" target="_blank">
-  <img src="./images/dashboard-preview.png" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="https://github.com/danblacknote/Sales-Intelligent-Dashboard-Using-EXCEL/blob/bd09d4c55ae94515eb7a592496b31ad83e2ae60c/images/Detailed%20Sales%20intellegent%20dashboard.PNG" alt="Sales Intelligent Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #ddd;">
 </a>
 
 *(If the image doesn't load, please ensure you have placed your dashboard screenshot in the `images` folder and named it `dashboard-preview.png`).*
